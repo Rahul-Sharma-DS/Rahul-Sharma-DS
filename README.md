@@ -24,33 +24,6 @@ Data Tools: Excel, Power BI
 
 Other: MS Word, PowerPoint
 
-📊 Projects
-🔹 Customer Churn Analysis (Python)
-
-Used NumPy, Pandas, Matplotlib
-
-Performed data cleaning and preprocessing
-
-Identified churn patterns using visualization
-
-Helped understand customer retention trends
-
-🔹 Job Analysis Dashboard (Power BI)
-
-Created interactive dashboards
-
-Analyzed job market trends
-
-Used filters and visuals for insights
-
-🌱 Currently Learning
-
-Google Cloud Platform (GCP)
-
-Advanced Data Analytics
-
-SQL & Database Optimization
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1692rahulsharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-sharma-77b10531b ) 
 

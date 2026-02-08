@@ -1,19 +1,55 @@
-## Hi there 👋
+👋 Hi, I'm Rahul Sharma
 
-<!--
-**Rahul-Sharma-DS/Rahul-Sharma-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 📊 Data Analytics Enthusiast | 💻 Python Developer
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Pursuing MCA
+
+📊 Learning and working on Data Analytics & Data Visualization
+
+💡 Interested in Python, Data Analysis, Cloud (GCP)
+
+📚 Completed training in Python, Excel, Power BI
+
+🏆 NSS Volunteer | National Camp Participant
+
+🛠️ Skills
+
+Programming: Python, C++
+
+Libraries: NumPy, Pandas, Matplotlib
+
+Data Tools: Excel, Power BI
+
+Other: MS Word, PowerPoint
+
+📊 Projects
+🔹 Customer Churn Analysis (Python)
+
+Used NumPy, Pandas, Matplotlib
+
+Performed data cleaning and preprocessing
+
+Identified churn patterns using visualization
+
+Helped understand customer retention trends
+
+🔹 Job Analysis Dashboard (Power BI)
+
+Created interactive dashboards
+
+Analyzed job market trends
+
+Used filters and visuals for insights
+
+🌱 Currently Learning
+
+Google Cloud Platform (GCP)
+
+Advanced Data Analytics
+
+SQL & Database Optimization
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1692rahulsharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-sharma-77b10531b ) 
